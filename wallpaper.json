@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c1",
+    "imageUrl": "https://cdn.pixabay.com/photo/2018/10/28/10/12/coloring-page-3778815_1280.png",
+    "title": "Butterfly",
+    "category": "Animals"
+  },
+  {
+    "id": "c2",
+    "imageUrl": "https://cdn.pixabay.com/photo/2018/12/02/14/39/coloring-book-3852050_1280.jpg",
+    "title": "Garden Flowers",
+    "category": "Nature"
+  },
+  {
+    "id": "c3",
+    "imageUrl": "https://cdn.pixabay.com/photo/2021/01/30/08/14/mandala-5963721_1280.jpg",
+    "title": "Mandala",
+    "category": "Patterns"
+  },
+  {
+    "id": "c4",
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/07/25/22/54/colouring-book-2539469_1280.jpg",
+    "title": "Fish",
+    "category": "Sea Life"
+  },
+  {
+    "id": "c5",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/11/18/19/29/coloring-book-5757197_1280.jpg",
+    "title": "Dragonfly",
+    "category": "Insects"
+  },
+  {
+    "id": "c6",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/05/17/20/34/coloring-book-5183228_1280.jpg",
+    "title": "Ocean Scene",
+    "category": "Sea Life"
+  },
+  {
+    "id": "c7",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/10/01/18/07/coloring-5619599_1280.jpg",
+    "title": "Owl",
+    "category": "Birds"
+  },
+  {
+    "id": "c8",
+    "imageUrl": "https://cdn.pixabay.com/photo/2023/02/16/15/32/coloring-page-7793628_1280.png",
+    "title": "Geometric Pattern",
+    "category": "Patterns"
+  },
+  {
+    "id": "c9",
+    "imageUrl": "https://cdn.pixabay.com/photo/2020/08/18/05/07/coloring-book-5497494_1280.jpg",
+    "title": "Deer",
+    "category": "Animals"
+  },
+  {
+    "id": "c10",
+    "imageUrl": "https://cdn.pixabay.com/photo/2017/01/31/23/42/animal-2028152_1280.png",
+    "title": "Elephant",
+    "category": "Animals"
+  }
+]

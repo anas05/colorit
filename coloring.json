@@ -1,62 +1,38 @@
 [
   {
     "id": "w1",
-    "imageUrl": "https://imgur.com/undefined",
-    "title": "",
-    "category": "Outfits"
+    "imageUrl": "https://images.unsplash.com/photo-1744877478622-a78c7a3336f6",
+    "title": "Peaceful Mountains",
+    "category": "Nature"
   },
   {
     "id": "w2",
-    "imageUrl": "https://imgur.com/gk5OQBQ",
-    "title": "",
-    "category": "Outfits"
+    "imageUrl": "https://images.unsplash.com/photo-1744877478622-a78c7a3336f6",
+    "title": "Ocean Waves",
+    "category": "Seascape"
   },
   {
     "id": "w3",
-    "imageUrl": "https://imgur.com/QcGOyzR",
-    "title": "",
-    "category": "Outfits"
+    "imageUrl": "https://images.unsplash.com/photo-1744877478622-a78c7a3336f6",
+    "title": "Forest Path",
+    "category": "Nature"
   },
   {
     "id": "w4",
-    "imageUrl": "https://imgur.com/L0nIied",
-    "title": "",
-    "category": "Outfits"
+    "imageUrl": "https://images.unsplash.com/photo-1744877478622-a78c7a3336f6",
+    "title": "Desert Sunset",
+    "category": "Landscape"
   },
   {
     "id": "w5",
-    "imageUrl": "https://imgur.com/NkERzyn",
-    "title": "",
-    "category": "Outfits"
+    "imageUrl": "https://images.unsplash.com/photo-1744877478622-a78c7a3336f6",
+    "title": "Cherry Blossoms",
+    "category": "Nature"
   },
   {
     "id": "w6",
-    "imageUrl": "https://imgur.com/FfcQkqs",
-    "title": "",
-    "category": "Outfits"
-  },
-  {
-    "id": "w7",
-    "imageUrl": "https://imgur.com/FfcQkqs",
-    "title": "",
-    "category": "Outfits"
-  },
-  {
-    "id": "w8",
-    "imageUrl": "https://imgur.com/rx8scXg",
-    "title": "",
-    "category": "Outfits"
-  },
-  {
-    "id": "w9",
-    "imageUrl": "https://imgur.com/NmtMRHo",
-    "title": "",
-    "category": "Outfits"
-  },
-  {
-    "id": "w6",
-    "imageUrl": "https://imgur.com/EPTSaha",
-    "title": "",
-    "category": "Outfits"
+    "imageUrl": "https://images.unsplash.com/photo-1695751239787-fb9f33c5e39a",
+    "title": "Northern Lights",
+    "category": "Night Sky"
   }
 ]
